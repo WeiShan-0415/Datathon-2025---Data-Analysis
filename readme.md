@@ -24,7 +24,3 @@ The dataset used is Vehicle Risk Data (train set).csv.
 
 To know more about this competition to refer to this kaggle link:
 https://www.kaggle.com/competitions/hwum-datathon-2025
-
-# Additional Information
-
-To pr
