@@ -18,6 +18,12 @@ To prepare for this competition, I had to learn data cleaning, model prediction,
 
 Run the Jupyter Notebook to analyze the dataset: main.ipynb
 
+# Technology used
+1. Python 
+2. Pandas
+3. Matplotlib
+4. Seaborn
+
 # Data
 
 The dataset used is Vehicle Risk Data (train set).csv.
